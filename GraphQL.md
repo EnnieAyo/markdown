@@ -57,3 +57,26 @@ some text <br> some more text
 
 - [x] task#1
 - [ ] task#2
+
+| Light color | Current State | Next State |
+|:------ |:------ |:------:|
+| Green | Green | Yellow|
+| Yellow | Yellow | Red |
+
+<details>
+<summary>Section Header</summary>
+
+Section body text
+
+- hello
+- hey
+- test
+</details>
+
+## Foot Notes 
+
+Happy trees are happy [^1]
+
+## Footer
+
+[^1]: By Bob Ross
